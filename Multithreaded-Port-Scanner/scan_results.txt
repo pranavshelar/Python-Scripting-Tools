@@ -1,0 +1,15 @@
+
+
+Scan Report for 192.168.56.104 | 2025-12-17 10:34:04.265914
+--------------------------------------------------
+Port 22 OPEN | Banner: SSH-2.0-OpenSSH_4.7p1 Debian-8ubuntu1
+Port 23 OPEN | Banner: None
+Port 21 OPEN | Banner: 220 (vsFTPd 2.3.4)
+Port 25 OPEN | Banner: None
+Port 53 OPEN | Banner: None
+Port 111 OPEN | Banner: 
+Port 139 OPEN | Banner: None
+Port 445 OPEN | Banner: None
+Port 514 OPEN | Banner: getnameinfo: Temporary failure in name resolution
+Port 513 OPEN | Banner: None
+Port 512 OPEN | Banner: Where are you?
